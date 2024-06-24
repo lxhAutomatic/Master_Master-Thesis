@@ -37,9 +37,9 @@ class CreateDatasetFromImages(Dataset):
     def __init__(self, csv_path, file_path, resize_height=256, resize_width=256):
         """
         Args:
-            csv_path (string): csv 文件路径
-            img_path (string): 图像文件所在路径
-            transform: transform 操作
+            csv_path (string): File Parth for csv file
+            img_path (string): File path for image file
+            transform: transform operation
         """
         self.resize_height = resize_height
         self.resize_width = resize_width
