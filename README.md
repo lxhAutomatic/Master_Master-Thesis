@@ -1,4 +1,9 @@
 # diffusion_msc
+# Deep Learning in Medical Image Synthesis
+# Utrecht University & Technical University of Eindhoven
+# Dec 2022 -- Sep 2023
+This project contains the work done for my master's thesis "Deep Learning in Medical Image Synthesis", at Utrecht University & Technical University of Eindhoven. This project mainly includes using different generation networks for the X-ray images.
+
 For different classification models:
 
 	CheXNet: Use the train.py file in the Classification_Model/ChexPert/bin for training, main hyper-parameters are shown in the file.
